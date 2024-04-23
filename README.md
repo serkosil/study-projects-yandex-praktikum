@@ -1,4 +1,4 @@
-# Study-projects
+# Study-projects in Yandex.Praktikum
 
 Projects completed during the Data Analyst course at Yandex Practicum.
 
